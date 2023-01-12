@@ -1,0 +1,23 @@
+{
+    "artist1": {
+        "type": "DJ",
+        "name": "dj_jacklope",
+        "contact": "djjackalope@gmail.com",
+        "location": "US",
+        "Social": "https://twitter.com/djjackalope"
+    },
+    "artist2": {
+        "type": "DJ",
+        "name": "dotornot2",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://twitter.com/dotornot2"
+    },
+    "artist3": {
+        "type": "DJ",
+        "name": "kampf",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://defcon.social/@kampf"
+    }
+}
