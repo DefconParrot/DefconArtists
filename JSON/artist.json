@@ -1,0 +1,34 @@
+{
+    "artist1": {
+        "type": "DJ",
+        "name": "dj_jacklope",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://twitter.com/djjackalope",
+        "Twitch": "https://www.twitch.tv/missjackalope"
+    },
+    "artist2": {
+        "type": "DJ",
+        "name": "dotornot2",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://twitter.com/dotornot2",
+        "Twitch": "https://www.twitch.tv/dotornot"
+    },
+    "artist3": {
+        "type": "DJ",
+        "name": "kampf",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://defcon.social/@kampf",
+        "Twitch": "null"
+    },
+    "artist4": {
+        "type": "DJ",
+        "name": "djTotalHarmonDistortion",
+        "contact": "null",
+        "location": "US",
+        "Social": "https://www.facebook.com/djTotalHarmonDistortion",
+        "Twitch": "null"
+    }
+}

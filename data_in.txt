@@ -1,3 +1,4 @@
-DJ dj_jacklope djjackalope@gmail.com US https://twitter.com/djjackalope
-DJ dotornot2 null US https://twitter.com/dotornot2
-DJ kampf null US https://defcon.social/@kampf
+DJ dj_jacklope null US https://twitter.com/djjackalope https://www.twitch.tv/missjackalope
+DJ dotornot2 null US https://twitter.com/dotornot2 https://www.twitch.tv/dotornot
+DJ kampf null US https://defcon.social/@kampf null
+DJ djTotalHarmonDistortion null US https://www.facebook.com/djTotalHarmonDistortion null

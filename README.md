@@ -26,7 +26,7 @@
 
 JSON Structure:
 
-- Data is fetched from the data_in.txt file and formatted in JSON.
+- Data is fetched from the => [data_in.txt](data_in.txt) file and formatted in JSON, CSV & XLSX format.
 
 ```
 {
@@ -70,12 +70,12 @@ JSON Structure:
 ⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
 ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣿
 
-| Artist | Type | Name                    | Email                 | Location | Social                                                       |
-| ------ | ---- | ----------------------- | --------------------- | -------- | ------------------------------------------------------------ |
-| 1      | DJ   | dj_jacklope             | djjackalope@gmail.com | US       | [Twitter](https://twitter.com/djjackalope)                   |
-| 2      | DJ   | dotornot2               | null                  | US       | [Twitter](https://twitter.com/dotornot2)                     |
-| 3      | DJ   | kampf                   | null                  | US       | [Mastodon](https://defcon.social/@kampf)                     |
-| 4      | DJ   | djTotalHarmonDistortion | null                  | US       | [Facebook](https://www.facebook.com/djTotalHarmonDistortion) |
+| Artist | Type | Name                    | Email | Location | Social                                                       | Twitch                                               |
+| ------ | ---- | ----------------------- | ----- | -------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 1      | DJ   | dj_jacklope             | null  | US       | [Twitter](https://twitter.com/djjackalope)                   | [missjackalope](https://www.twitch.tv/missjackalope) |
+| 2      | DJ   | dotornot2               | null  | US       | [Twitter](https://twitter.com/dotornot2)                     | [DotOrNot](https://www.twitch.tv/dotornot)           |
+| 3      | DJ   | kampf                   | null  | US       | [Mastodon](https://defcon.social/@kampf)                     | null                                                 |
+| 4      | DJ   | djTotalHarmonDistortion | null  | US       | [Facebook](https://www.facebook.com/djTotalHarmonDistortion) | null                                                 |
 
 </details>
 
@@ -103,9 +103,9 @@ JSON Structure:
 
 Feel free to contribute on matters documentation, adding more artists by submitting pull requests and or creating issues(s).
 
-To add artist, add to the 'data_in.txt' file the artist name, type(e.g DJ, Visual artist), business email, where artist is based in, and the social media handle in case someone wants to contact them. Follow similar order contained in the file.
+To add artist, add to the 'data_in.txt' file the <b>artist name, type(e.g DJ, Visual artist), business email, where artist is based in, and the social media handle</b> in case someone wants to contact them. Follow similar order contained in the file.
 
-List Reference: => [DEF CON Music](https://defconmusic.org/)
+List Reference: => [DEF CON Music](https://defconmusic.org/), [DC 30 Entertainment](https://defcon.org/html/defcon-30/dc-30-entertainment.html)
 
 ## Point of contact (Twitter)
 
